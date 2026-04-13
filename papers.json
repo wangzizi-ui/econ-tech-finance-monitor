@@ -1,0 +1,170 @@
+[
+  {
+    "title": "Financial Frictions, Innovation Signals, and SME Credit Allocation",
+    "journal": "Journal of Banking & Finance",
+    "date": "2026-04-08",
+    "summary": "This paper examines how public innovation-related signals reduce screening costs for lenders and improve the allocation of bank credit to innovative SMEs.",
+    "tags": [
+      "SME finance",
+      "credit rationing",
+      "innovation"
+    ],
+    "url": "https://example.com/paper1",
+    "doi_url": "https://doi.org/10.0000/example1",
+    "openalex_url": "https://openalex.org/works/W0000000001"
+  },
+  {
+    "title": "Technology Markets and Firm Financing Constraints: New Evidence",
+    "journal": "Research Policy",
+    "date": "2026-04-06",
+    "summary": "The study links technology factor markets to improved monetization of intangible assets and lower precautionary cash holding among patent-intensive firms.",
+    "tags": [
+      "technology market",
+      "innovation",
+      "financing constraints"
+    ],
+    "url": "https://example.com/paper2",
+    "doi_url": "https://doi.org/10.0000/example2",
+    "openalex_url": "https://openalex.org/works/W0000000002"
+  },
+  {
+    "title": "Trade Credit, Information Transparency, and Innovation Investment",
+    "journal": "Journal of Corporate Finance",
+    "date": "2026-04-03",
+    "summary": "Using panel evidence, the authors show that better information transparency strengthens the complementarity between formal finance and trade credit in supporting innovation.",
+    "tags": [
+      "trade credit",
+      "disclosure",
+      "innovation"
+    ],
+    "url": "https://example.com/paper3",
+    "doi_url": "https://doi.org/10.0000/example3",
+    "openalex_url": "https://openalex.org/works/W0000000003"
+  },
+  {
+    "title": "Public Information Infrastructure and Bank Screening of Innovative Firms",
+    "journal": "Small Business Economics",
+    "date": "2026-03-29",
+    "summary": "This article studies how public information platforms can improve banks’ screening efficiency and ease financing constraints faced by small innovative firms.",
+    "tags": [
+      "public information",
+      "bank screening",
+      "SMEs"
+    ],
+    "url": "https://example.com/paper4",
+    "doi_url": "https://doi.org/10.0000/example4",
+    "openalex_url": "https://openalex.org/works/W0000000004"
+  },
+  {
+    "title": "Disclosure Quality, Supplier Financing, and Innovation Persistence",
+    "journal": "Industrial and Corporate Change",
+    "date": "2026-03-25",
+    "summary": "The paper explores whether higher-quality corporate disclosure enhances supplier financing relationships and sustains long-run innovation activity.",
+    "tags": [
+      "disclosure",
+      "supplier finance",
+      "innovation persistence"
+    ],
+    "url": "https://example.com/paper5",
+    "doi_url": "https://doi.org/10.0000/example5",
+    "openalex_url": "https://openalex.org/works/W0000000005"
+  },
+  {
+    "title": "Patent Pledge Financing and R&D Dynamics in High-Tech SMEs",
+    "journal": "Technovation",
+    "date": "2026-03-20",
+    "summary": "This paper examines whether patent pledge financing reshapes the timing and intensity of R&D investment among high-tech small and medium-sized enterprises.",
+    "tags": [
+      "patent pledge",
+      "R&D",
+      "high-tech SMEs"
+    ],
+    "url": "https://example.com/paper6",
+    "doi_url": "https://doi.org/10.0000/example6",
+    "openalex_url": "https://openalex.org/works/W0000000006"
+  },
+  {
+    "title": "Innovation Finance and the Allocation of Credit under Information Asymmetry",
+    "journal": "Economics of Innovation and New Technology",
+    "date": "2026-03-18",
+    "summary": "The article develops evidence on how targeted innovation finance mechanisms can improve credit allocation when banks face severe information asymmetry.",
+    "tags": [
+      "innovation finance",
+      "credit allocation",
+      "information asymmetry"
+    ],
+    "url": "https://example.com/paper7",
+    "doi_url": "https://doi.org/10.0000/example7",
+    "openalex_url": "https://openalex.org/works/W0000000007"
+  },
+  {
+    "title": "Bank Competition, Soft Information, and Innovation Lending",
+    "journal": "Review of Financial Studies",
+    "date": "2026-03-15",
+    "summary": "This study investigates the role of market structure and soft information in shaping bank lending to innovative firms.",
+    "tags": [
+      "bank competition",
+      "soft information",
+      "innovation lending"
+    ],
+    "url": "https://example.com/paper8",
+    "doi_url": "https://doi.org/10.0000/example8",
+    "openalex_url": "https://openalex.org/works/W0000000008"
+  },
+  {
+    "title": "Technology Signals, Credit Rationing, and Entrepreneurial Growth",
+    "journal": "Small Business Economics",
+    "date": "2026-03-12",
+    "summary": "The paper shows how observable technology signals can reduce credit rationing and foster entrepreneurial growth in young firms.",
+    "tags": [
+      "technology signals",
+      "credit rationing",
+      "entrepreneurship"
+    ],
+    "url": "https://example.com/paper9",
+    "doi_url": "https://doi.org/10.0000/example9",
+    "openalex_url": "https://openalex.org/works/W0000000009"
+  },
+  {
+    "title": "Formal Finance, Trade Credit, and Innovation Complementarity",
+    "journal": "Journal of Corporate Finance",
+    "date": "2026-03-10",
+    "summary": "This article analyzes whether formal finance and trade credit become more complementary when firms invest in uncertain innovation projects.",
+    "tags": [
+      "formal finance",
+      "trade credit",
+      "innovation"
+    ],
+    "url": "https://example.com/paper10",
+    "doi_url": "https://doi.org/10.0000/example10",
+    "openalex_url": "https://openalex.org/works/W0000000010"
+  },
+  {
+    "title": "Policy Coordination and Financial Support for Innovative SMEs",
+    "journal": "Research Policy",
+    "date": "2026-03-07",
+    "summary": "The study discusses how policy coordination across government departments improves financial support systems for innovative SMEs.",
+    "tags": [
+      "policy coordination",
+      "innovative SMEs",
+      "financial support"
+    ],
+    "url": "https://example.com/paper11",
+    "doi_url": "https://doi.org/10.0000/example11",
+    "openalex_url": "https://openalex.org/works/W0000000011"
+  },
+  {
+    "title": "Information Disclosure Timeliness and Innovation Outcomes",
+    "journal": "Journal of Banking & Finance",
+    "date": "2026-03-05",
+    "summary": "This paper links more timely information disclosure to improved innovation outcomes through lower financing frictions and better market confidence.",
+    "tags": [
+      "disclosure timeliness",
+      "innovation outcomes",
+      "financing frictions"
+    ],
+    "url": "https://example.com/paper12",
+    "doi_url": "https://doi.org/10.0000/example12",
+    "openalex_url": "https://openalex.org/works/W0000000012"
+  }
+]
